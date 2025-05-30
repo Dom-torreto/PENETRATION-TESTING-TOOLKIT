@@ -24,10 +24,13 @@ The second part of the toolkit is a port scanner. Using Python’s socket librar
 
 A few key things I learned from this project:
 
-1)How to simulate and test a login authentication system.
-2)Writing scripts that can communicate with servers using HTTP POST requests.
-3)The basics of TCP/IP and how ports can be tested for accessibility.
-4)The difference between open, closed, and filtered ports.
+1) How to simulate and test a login authentication system.
+
+2) Writing scripts that can communicate with servers using HTTP POST requests.
+
+3) The basics of TCP/IP and how ports can be tested for accessibility.
+
+4) The difference between open, closed, and filtered ports.
 
 All in all, this project gave me a solid foundation in ethical hacking and practical Python scripting. I tested the tools in both IDLE and VS Code, debugging issues ranging from incorrect port numbers to connection refusals. Despite the challenges, working on this toolkit was an eye-opening experience and a stepping stone in my journey into cybersecurity.
 
